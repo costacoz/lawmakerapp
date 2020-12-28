@@ -4,6 +4,9 @@ An initiative can be submitted only if it had collected enough sign during the p
 Petition has creation date and date when it was closed (handed over with initiative to committee to review).
 
 # Entities
+
+![law_maker](https://user-images.githubusercontent.com/5889549/103238718-329a8500-4954-11eb-8866-f1c87f57cdd4.jpg)
+
 Initiative: status, title, description, edition,FK initiator, FK assigned committee for review
 
 Initiator: Name, Surname
