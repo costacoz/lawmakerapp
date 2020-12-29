@@ -3,7 +3,7 @@ Law Maker is a Django app that lets initiators to create initiative, which is re
 An initiative can be submitted only if it had collected enough sign during the petition.\
 Petition has creation date and date when it was closed (handed over with initiative to committee to review).
 
-#Rules/restrictions (*configurable in admin panel)
+# Rules/restrictions (*configurable in admin panel)
 * Petition should gather at least 10* signatures.
 * Initiative can be reapplied up to 3* times
 * One voter can vote only once per petition (non-configurable)
@@ -35,18 +35,18 @@ Committee can change status from declined to approved and vice versa.
 
 
 ## Views
-###Initiator
+### Initiator
 **Initiatives index**\
 **Create initiative**\
 **Initiative details**
-###Committee
+### Committee
 **Assigned initiatives for review**\
 **Initiative details**
-###Voter
+### Voter
 **Initiative details**\
 **Petition details view**
 
-#Project’s highlighted technology stack
+# Project’s highlighted technology stack
 * TDD
 * Numpy
 * Pandas
