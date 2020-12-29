@@ -5,7 +5,7 @@ Petition has creation date and date when it was closed (handed over with initiat
 
 # Entities
 
-![law_maker](https://user-images.githubusercontent.com/5889549/103282157-81403180-49dd-11eb-8748-a0e7b6269450.png)
+![law_maker (2)](https://user-images.githubusercontent.com/5889549/103284063-e9dddd00-49e2-11eb-8b8a-9b1c049ba8c5.jpg)
 
 Initiative: status, title, description, edition,FK initiator, FK assigned committee for review
 
