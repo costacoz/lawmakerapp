@@ -27,11 +27,11 @@ Petition has creation date and date when it was closed (handed over with initiat
 **Signature**: FK petition, voters name & surname
 
 # Logic
-Initiator can create initiatives and start petitions.\
-Voters get link to the petition and vote only once for a petition.\
-Committee can review initiative title, description and petition for the initiative.\
-Committee can decline initiative, which passes it back to initiator with status declined and remaining count of permitted amount of resubmissions left.\
-Committee can change status from declined to approved and vice versa.
+**Initiator** can create initiatives and start petitions.\
+**Voters** get link to the petition and vote only once for a petition.\
+**Committee** can review initiative title, description and petition for the initiative.\
+**Committee** can decline initiative, which passes it back to initiator with status declined and remaining count of permitted amount of resubmissions left.\
+**Committee** can change status from declined to approved and vice versa.
 
 
 ## Views
