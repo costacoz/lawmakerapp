@@ -47,7 +47,7 @@ Petition has creation date and date when it was closed (handed over with initiat
 **Petition details view**
 
 # Project’s highlighted technology stack
-* TDD
+* TDD (+ coverage.py usage to check code coverage)
 * Numpy
 * Pandas
 * Django generic views
