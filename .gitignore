@@ -3,3 +3,4 @@ law_maker/__pycache__/
 *.pyc
 *.sqlite3
 *.coverage
+/law_maker/my_settings.py
